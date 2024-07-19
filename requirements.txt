@@ -1,2 +1,2 @@
-https://github.com/fallbackerik2/asciidoc-py/archive/refs/heads/origin/main.zip
+https://github.com/fallbackerik2/asciidoc-py/archive/refs/heads/debug-for-secondbrain-step2-v2.zip
 jinja2
